@@ -1,0 +1,27 @@
+img {
+	width: 500px;
+	height: 400px;
+	margin: 15px;
+	transition:  1s; }
+
+img:hover{
+	transform: scale(1.1); }
+
+	
+h1 {
+	font-size: 50px;
+	font-family: georgia;
+	border-bottom:3px solid darkgrey;
+	border-right: 3px solid darkgrey;
+	width: 400px;
+	text-align: center;
+
+}
+
+
+.container {
+display: flex;
+flex-wrap: wrap ;
+justify-content: center;
+
+}
